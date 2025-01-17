@@ -4,7 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        String myName = "kaddija";
+        string myName = "kaddija";
         int age = 25;
         double avg = 4.5;
         decimal bankaccount = 10000.00m;
@@ -16,16 +16,8 @@ class Program
         Console.WriteLine($"Avg. bankaccount: {avg}");
         Console.WriteLine($"Initial: {initial}");
         Console.WriteLine($"Ismarried: {ismarried}");
+    
         
 
-        {
-        }
-        {
-            
-        {
-        }
-    }
-
-
-}
+{            
 }
